@@ -1,7 +1,0 @@
-/Users/nacynsaryglar/Documents/stuff/for_TMP/lab03_timp/_build/CMakeFiles/rebuild_cache.dir
-/Users/nacynsaryglar/Documents/stuff/for_TMP/lab03_timp/_build/CMakeFiles/edit_cache.dir
-/Users/nacynsaryglar/Documents/stuff/for_TMP/lab03_timp/_build/CMakeFiles/solver.dir
-/Users/nacynsaryglar/Documents/stuff/for_TMP/lab03_timp/_build/CMakeFiles/solver_lib.dir
-/Users/nacynsaryglar/Documents/stuff/for_TMP/lab03_timp/_build/CMakeFiles/formatter.dir
-/Users/nacynsaryglar/Documents/stuff/for_TMP/lab03_timp/_build/CMakeFiles/hello_world.dir
-/Users/nacynsaryglar/Documents/stuff/for_TMP/lab03_timp/_build/CMakeFiles/formatter_ex.dir
