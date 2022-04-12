@@ -1,3 +1,0 @@
-/Users/nacynsaryglar/Documents/stuff/for_TMP/lab03_timp/solver_lib/_build/CMakeFiles/rebuild_cache.dir
-/Users/nacynsaryglar/Documents/stuff/for_TMP/lab03_timp/solver_lib/_build/CMakeFiles/edit_cache.dir
-/Users/nacynsaryglar/Documents/stuff/for_TMP/lab03_timp/solver_lib/_build/CMakeFiles/solver_lib.dir
